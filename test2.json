@@ -41,6 +41,40 @@
             "source": "佛山",
             "target": "http://paper.people.com.cn/rmrb/images/1/20210224/1614113029466_1.jpg",
             "value": 3
+        },
+        {
+            "relation": "pic",
+            "source": "人大常委会",
+            "target": "http://paper.people.com.cn/rmrb/res/2020-05/21/13/rmrb2020052113p7_b.jpg",
+            "value": 3
+        },
+        {
+            "relation": "pic",
+            "source": "人大常委会",
+            "target": "http://paper.people.com.cn/rmrb/res/1/20200521/1590008377433_1.jpg",
+            "value": 3
+        }
+
+    ],
+
+    "nodes": [
+        {
+            "class": "时间",
+            "group": "0",
+            "id": "新年",
+            "size": "10"
+        },
+        {
+            "class": "地点",
+            "group": "1",
+            "id": "佛山",
+            "size": "10"
+        },
+        {
+            "class": "机构",
+            "group": "2",
+            "id": "人大常委会",
+            "size": "10"
         }
     ]
 }
