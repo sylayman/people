@@ -15,7 +15,7 @@
         {
             "relation": "pic",
             "source": "新年",
-            "target": "http://paper.people.com.cn/rmrb/images/1/20210102/1609534868882_1.jpg",
+            "target": "http://paper.people.com.cn/rmrb/images/1/20210102/1609534875982_1.jpg",
             "value": 3
         },
         {
@@ -75,6 +75,61 @@
             "group": "2",
             "id": "人大常委会",
             "size": "10"
+        },
+        {
+            "class": "图像",
+            "group": "3",
+            "id": "http://paper.people.com.cn/rmrb/images/1/20210102/1609534868882_1.jpg",
+            "size": "10"
+        },
+        {
+            "class": "图像",
+            "group": "3",
+            "id": "http://paper.people.com.cn/rmrb/images/1/20210102/1609534875982_1.jpg",
+            "size": "10"
+        },
+        {
+            "class": "图像",
+            "group": "3",
+            "id": "http://paper.people.com.cn/rmrb/images/1/20210102/1609534875982_1.jpg",
+            "size": "10"
+        },
+        {
+            "class": "图像",
+            "group": "3",
+            "id": "http://paper.people.com.cn/rmrb/images/1/20201025/1603572464151_1.jpg",
+            "size": "10"
+        },
+        {
+            "class": "图像",
+            "group": "3",
+            "id": "http://paper.people.com.cn/rmrb/res/1/20200510/1589054093128_1.jpg",
+            "size": "10"
+        },
+        {
+            "class": "图像",
+            "group": "3",
+            "id": "http://paper.people.com.cn/rmrb/images/2020-10/06/05/rmrb2020100605p9_b.jpg",
+            "size": "10"
+        },
+        {
+            "class": "图像",
+            "group": "3",
+            "id": "http://paper.people.com.cn/rmrb/images/1/20210224/1614113029466_1.jpg",
+            "size": "10"
+        },
+        {
+            "class": "图像",
+            "group": "3",
+            "id": "http://paper.people.com.cn/rmrb/res/2020-05/21/13/rmrb2020052113p7_b.jpg",
+            "size": "10"
+        },
+        {
+            "class": "图像",
+            "group": "3",
+            "id": "http://paper.people.com.cn/rmrb/res/1/20200521/1590008377433_1.jpg",
+            "size": "10"
         }
     ]
 }
+       
