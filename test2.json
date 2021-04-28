@@ -1,0 +1,46 @@
+{
+    "links": [
+        {
+            "relation": "pic",
+            "source": "新年",
+            "target": "http://paper.people.com.cn/rmrb/images/1/20210102/1609534868882_1.jpg",
+            "value": 3
+        },
+        {
+            "relation": "pic",
+            "source": "新年",
+            "target": "http://paper.people.com.cn/rmrb/images/1/20210102/1609534875982_1.jpg",
+            "value": 3
+        },
+        {
+            "relation": "pic",
+            "source": "新年",
+            "target": "http://paper.people.com.cn/rmrb/images/1/20210102/1609534868882_1.jpg",
+            "value": 3
+        },
+        {
+            "relation": "pic",
+            "source": "佛山",
+            "target": "http://paper.people.com.cn/rmrb/images/1/20201025/1603572464151_1.jpg",
+            "value": 3
+        },
+        {
+            "relation": "pic",
+            "source": "佛山",
+            "target": "http://paper.people.com.cn/rmrb/res/1/20200510/1589054093128_1.jpg",
+            "value": 3
+        },
+        {
+            "relation": "pic",
+            "source": "佛山",
+            "target": "http://paper.people.com.cn/rmrb/images/2020-10/06/05/rmrb2020100605p9_b.jpg",
+            "value": 3
+        },
+        {
+            "relation": "pic",
+            "source": "佛山",
+            "target": "http://paper.people.com.cn/rmrb/images/1/20210224/1614113029466_1.jpg",
+            "value": 3
+        }
+    ]
+}
