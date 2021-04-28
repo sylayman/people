@@ -15,7 +15,7 @@
         {
             "relation": "pic",
             "source": "新年",
-            "target": "http://paper.people.com.cn/rmrb/images/1/20210102/1609534875982_1.jpg",
+            "target": "http://paper.people.com.cn/rmrb/images/1/20210102/1609531523107_1.jpg",
             "value": 3
         },
         {
@@ -91,7 +91,7 @@
         {
             "class": "图像",
             "group": "3",
-            "id": "http://paper.people.com.cn/rmrb/images/1/20210102/1609534875982_1.jpg",
+            "id": "http://paper.people.com.cn/rmrb/images/1/20210102/1609531523107_1.jpg",
             "size": "10"
         },
         {
